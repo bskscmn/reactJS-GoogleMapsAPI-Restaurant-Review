@@ -1,4 +1,6 @@
-This front-end project is a simple service that offers reviews of restaurants around you..
+This front-end project is a simple service that offers reviews of restaurants around you.
+
+[Demo ](http://www.basaksecmen.com/projects/p7/build/)
 
 [githup repository of the project](https://github.com/bskscmn/reactJS-GoogleMapsAPI-Restaurant-Review).
 
