@@ -1,0 +1,130 @@
+[
+   {
+      "id":"wppkxve",
+      "restaurantName":"Bronco",
+      "address":"39 Rue des Petites Écuries, 75010 Paris",
+      "lat":48.8737815,
+      "lng":2.3501649,
+      "ratings":[
+         {
+            "stars":4,
+            "comment":"Great! But not many veggie options."
+         },
+         {
+            "stars":5,
+            "comment":"My favorite restaurant!"
+         }
+      ]
+   },
+   {
+      "id":"mzbasf",
+      "restaurantName":"Babalou",
+      "address":"4 Rue Lamarck, 75018 Paris",
+      "lat":48.8865035,
+      "lng":2.3442197,
+      "ratings":[
+         {
+            "stars":2,
+            "comment":"Tiny pizzeria next to Sacre Coeur!"
+         },
+         {
+            "stars":1,
+            "comment":"Meh, it was not bad."
+         }
+      ]
+   },
+   {
+      "id":"udpyzw",
+      "restaurantName":"Yrg Resto",
+      "address":"Kızılay Ankara",
+      "lat":39.9150086,
+      "lng":32.8527645,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"hmmmm!"
+         }
+      ]
+   },
+   {
+      "id":"uzpfgxoh",
+      "restaurantName":"1wayCoffee",
+      "address":"Mustafa Kemal Mahallesi, 2095. Sokak, Barış Sitesi, Ankara",
+      "lat":39.9125226,
+      "lng":32.7580881,
+      "ratings":[
+         {
+            "stars":5,
+            "comment":"Best Coffee!"
+         }
+      ]
+   },
+   {
+      "id":"fzmpsq",
+      "restaurantName":"Başak Restaurant",
+      "address":"Mustafa Kemal Mahallesi, 2115. Sokak, Barış Sitesi, Ankara",
+      "lat":39.9129341,
+      "lng":32.7625083,
+      "ratings":[
+         {
+            "stars":2,
+            "comment":"Tiny Kebap Restaurant!"
+         },
+         {
+            "stars":3,
+            "comment":"It was fine."
+         }
+      ]
+   },
+   {
+      "id":"dzfpkndr",
+      "restaurantName":"Australia",
+      "address":"Australia",
+      "lat":-25.734968,
+      "lng":134.489563,
+      "ratings":[
+         {
+            "stars":3,
+            "comment":"Tiny Kebap Restaurant!"
+         },
+         {
+            "stars":3,
+            "comment":"It was fine."
+         }
+      ]
+   },
+   {
+      "id":"npxlmr",
+      "restaurantName":"BS AS",
+      "address":"BS AS",
+      "lat":-34.617803,
+      "lng":-58.439558,
+      "ratings":[
+         {
+            "stars":3,
+            "comment":"Tiny Kebap Restaurant!"
+         },
+         {
+            "stars":3,
+            "comment":"It was fine."
+         }
+      ]
+   },
+   {
+      "id":"nootyuq",
+      "restaurantName":"Canada",
+      "address":"Canada",
+      "lat":55.585901,
+      "lng":-105.750596,
+      "ratings":[
+         {
+            "stars":3,
+            "comment":"Tiny Kebap Restaurant!"
+         },
+         {
+            "stars":3,
+            "comment":"It was fine."
+         }
+      ]
+   }
+]

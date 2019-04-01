@@ -1,0 +1,66 @@
+h4 {
+	font-size: 18px;
+}
+p {
+	margin-bottom: 0;
+}
+.fa-star {
+  color: #ffd700;
+}
+.App {
+}
+
+.App-logo {
+
+  height: 80px;
+}
+.row {
+	margin-right:  0;
+	margin-left: 0;
+}
+.mapDiv {
+	background-color: #f7f7f7;
+	width: 250px;
+    height: 80vh;
+    padding: 5px;
+    box-shadow: 3px 3px 10px #c7c7c7;
+}
+#map {
+  height: 100%;
+}
+.listDiv {
+	background:white;
+	margin: 0px;
+	padding: 15px;
+	border-bottom: 1px solid #dedede;
+	-webkit-border-radius: 3px;
+	border-radius: 3px ;
+	-webkit-box-shadow: 3px 3px 3px #EBEBEB;
+	box-shadow: 3px 3px 10px  #EBEBEB;
+}
+.myplace{
+	background:#efefef; width:100%;
+}
+.listDiv:hover{
+	background:#e5e5e5; 
+	
+}
+
+.filtersDiv {
+	margin: 5px;
+	padding: 15px;
+	background:#efefef; width:100%;
+	-webkit-border-radius: 2px;
+	border-radius: 2px ;
+	-webkit-box-shadow:inset 3px 3px 10px #F2F2F2;
+	box-shadow:inset 3px 3px 10px  #F2F2F2;
+}
+.placesDiv {
+	max-width: 100%;
+	height: 70vh;
+	overflow-y:auto;
+	overflow-x: hidden;
+}
+.address, .location {
+	font-size: 12px;
+}
