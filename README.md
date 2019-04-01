@@ -1,6 +1,6 @@
 This front-end project is a simple service that offers reviews of restaurants around you..
 
-[githup repository of the project](https://github.com/bskscmn/bskscmn.react.project.github.io).
+[githup repository of the project](https://github.com/bskscmn/reactJS-GoogleMapsAPI-Restaurant-Review).
 
 ## Features
 
