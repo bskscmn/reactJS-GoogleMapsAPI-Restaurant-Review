@@ -2,7 +2,7 @@ This front-end project is a simple service that offers reviews of restaurants ar
 
 [Demo ](http://www.basaksecmen.com/projects/p7/build/)
 
-[githup repository of the project](https://github.com/bskscmn/reactJS-GoogleMapsAPI-Restaurant-Review).
+[GitHub repository of the project](https://github.com/bskscmn/reactJS-GoogleMapsAPI-Restaurant-Review)
 
 ## Features
 
